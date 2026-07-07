@@ -1,0 +1,8 @@
+[
+    ["Student1", false, "Data Analysis", "M"],
+    ["Student2", false, "Data Analysis", "F"],
+    ["Student3", false, "Programador", "M"],
+    ["Student4", true, "Gerente General", "M"],
+    ["Student5", false, "Data Analysis", "F"],
+    ["Student6", true, "Ing Industrial", "M"],
+    ["Student6", false, "Ciberseguridad", "M"],

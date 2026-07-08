@@ -13,3 +13,8 @@ def get_data_as_json(file_name):
         def print2(param):
             raise Exception("esto no existe")
         print(f"el archivo no pudo ser parseado a JSON favor verifique la estructura")
+
+
+def get_data_as_json2():
+    pass
+

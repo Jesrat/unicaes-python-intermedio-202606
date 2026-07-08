@@ -1,4 +1,7 @@
-from utilidades.manage_data import get_data_as_json
+# from utilidades.manage_data import get_data_as_json
+# from utilidades import get_data_as_json
+# from utilidades import get_data_as_json2
+from utilidades import *
 
 
 # EL TRABAJO

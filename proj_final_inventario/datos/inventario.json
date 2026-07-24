@@ -1,0 +1,16 @@
+[
+  {
+    "id": "23",
+    "nombre": "Laptop",
+    "precio": 1080.0,
+    "stock": 3,
+    "categoria": "electronicos"
+  },
+  {
+    "id": "24",
+    "nombre": "Televisor",
+    "precio": 1500.0,
+    "stock": 0,
+    "categoria": "residencial"
+  }
+]

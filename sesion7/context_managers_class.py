@@ -61,3 +61,10 @@ class ConexionDatabase:
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.conn = False
         print(f"la conexion a la base de datos ha sido cerrada")
+
+
+
+with ConexionDatabase("usuario", "contraseña") as conn:
+    print(f"tengo conexion {conn}")
+    print("ejecuto mas codigo")
+    print("y mas codigo")

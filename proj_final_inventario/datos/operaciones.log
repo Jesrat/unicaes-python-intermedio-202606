@@ -1,0 +1,10 @@
+[[2026-07-16 20:43:48] cargar_todos] -> ERROR: Expecting value: line 1 column 1 (char 0)
+[[2026-07-16 20:44:00] cargar_todos] -> ERROR: Expecting value: line 1 column 1 (char 0)
+[[2026-07-16 20:44:26] cargar_todos] -> OK
+[[2026-07-16 20:45:11] guardar_todos] -> OK
+[[2026-07-16 20:45:11] agregar_producto] -> OK
+[[2026-07-16 20:46:02] agregar_producto] -> ERROR: Ya existe un producto con id 23
+[[2026-07-16 20:46:43] guardar_todos] -> OK
+[[2026-07-16 20:46:43] agregar_producto] -> OK
+[[2026-07-16 20:47:47] guardar_todos] -> OK
+[[2026-07-16 20:50:38] cargar_todos] -> OK
